@@ -1,0 +1,15 @@
+
+beautifulsoup4
+requests
+scrapy
+transformers
+torch
+sentence-transformers
+faiss-cpu
+google-generativeai
+streamlit
+numpy
+selenium
+pandas
+bs4
+lxml
